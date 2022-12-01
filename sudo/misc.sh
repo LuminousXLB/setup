@@ -7,6 +7,7 @@ apt-get install -y \
   htop \
   iperf3 \
   jq \
+  libnotify-bin \
   libreoffice \
   lzip \
   minicom \
